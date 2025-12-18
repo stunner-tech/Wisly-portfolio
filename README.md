@@ -25,7 +25,7 @@ You can view the live site here:
 ## 📬 Contact
 - **Email:** okwakowisly23@gmail.com
 - **LinkedIn:** https://www.linkedin.com/feed/
-- **GitHub:** https://github.com/dashboard
+- **GitHub:** https://github.com/stunner-tech?tab=repositories
 
 ---
 
